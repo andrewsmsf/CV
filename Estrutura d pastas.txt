@@ -1,0 +1,6 @@
+Estrutura de pastas
+ 
+ img - imagem
+ css - css
+ js - javascript
+ arquivos.hmtl
