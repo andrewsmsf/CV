@@ -1,3 +1,3 @@
 # Currículo
- criando um site para meu currículo
+ criando um site para meu currículo, 
  em andamento 
